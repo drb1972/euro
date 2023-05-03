@@ -2,7 +2,7 @@
    "hlq.1"       : "RODDI01.GIT.REX*",
    "hlq.2"       : "RODDI01.GIT.JCL*",
    "hlq.3"       : "RODDI01.GIT.EUR*",
-   "cycle"       : "1",
+   "cycle"       : "0",
    "master_prof" : "zosmf-sr01brs-roddi01",
    "prof.1"      : "zosmf-mstrsvw-roddi01",
    "stop"        : "N",
