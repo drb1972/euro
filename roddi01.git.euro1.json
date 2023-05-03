@@ -1,0 +1,59 @@
+{
+  "success": true,
+  "exitCode": 0,
+  "message": "",
+  "stdout": "\u001b[32m- \u001b[39m\n  \u001b[33mmember: \u001b[39mJCLID\n  \u001b[33mvers: \u001b[39m  \u001b[34m1\u001b[39m\n  \u001b[33mmod: \u001b[39m   \u001b[34m6\u001b[39m\n  \u001b[33mc4date: \u001b[39m2021/04/27\n  \u001b[33mm4date: \u001b[39m2022/03/29\n  \u001b[33mcnorc: \u001b[39m \u001b[34m21\u001b[39m\n  \u001b[33minorc: \u001b[39m \u001b[34m20\u001b[39m\n  \u001b[33mmnorc: \u001b[39m \u001b[34m0\u001b[39m\n  \u001b[33mmtime: \u001b[39m 10:30\n  \u001b[33mmsec: \u001b[39m  25\n  \u001b[33muser: \u001b[39m  CUST029\n  \u001b[33msclm: \u001b[39m  N\n\u001b[32m- \u001b[39m\n  \u001b[33mmember: \u001b[39mLL00QA\n  \u001b[33mvers: \u001b[39m  \u001b[34m1\u001b[39m\n  \u001b[33mmod: \u001b[39m   \u001b[34m9\u001b[39m\n  \u001b[33mc4date: \u001b[39m2021/04/27\n  \u001b[33mm4date: \u001b[39m2021/09/02\n  \u001b[33mcnorc: \u001b[39m \u001b[34m55\u001b[39m\n  \u001b[33minorc: \u001b[39m \u001b[34m48\u001b[39m\n  \u001b[33mmnorc: \u001b[39m \u001b[34m0\u001b[39m\n  \u001b[33mmtime: \u001b[39m 05:15\n  \u001b[33mmsec: \u001b[39m  18\n  \u001b[33muser: \u001b[39m  RODDI01\n  \u001b[33msclm: \u001b[39m  N\n\u001b[32m- \u001b[39m\n  \u001b[33mmember: \u001b[39mLL01QA\n  \u001b[33mvers: \u001b[39m  \u001b[34m1\u001b[39m\n  \u001b[33mmod: \u001b[39m   \u001b[34m5\u001b[39m\n  \u001b[33mc4date: \u001b[39m2021/04/27\n  \u001b[33mm4date: \u001b[39m2022/03/29\n  \u001b[33mcnorc: \u001b[39m \u001b[34m342\u001b[39m\n  \u001b[33minorc: \u001b[39m \u001b[34m342\u001b[39m\n  \u001b[33mmnorc: \u001b[39m \u001b[34m0\u001b[39m\n  \u001b[33mmtime: \u001b[39m 10:30\n  \u001b[33mmsec: \u001b[39m  34\n  \u001b[33muser: \u001b[39m  CUST029\n  \u001b[33msclm: \u001b[39m  N\n\n\n",
+  "stderr": "",
+  "data": {
+    "success": true,
+    "commandResponse": null,
+    "apiResponse": {
+      "items": [
+        {
+          "member": "JCLID",
+          "vers": 1,
+          "mod": 6,
+          "c4date": "2021/04/27",
+          "m4date": "2022/03/29",
+          "cnorc": 21,
+          "inorc": 20,
+          "mnorc": 0,
+          "mtime": "10:30",
+          "msec": "25",
+          "user": "CUST029",
+          "sclm": "N"
+        },
+        {
+          "member": "LL00QA",
+          "vers": 1,
+          "mod": 9,
+          "c4date": "2021/04/27",
+          "m4date": "2021/09/02",
+          "cnorc": 55,
+          "inorc": 48,
+          "mnorc": 0,
+          "mtime": "05:15",
+          "msec": "18",
+          "user": "RODDI01",
+          "sclm": "N"
+        },
+        {
+          "member": "LL01QA",
+          "vers": 1,
+          "mod": 5,
+          "c4date": "2021/04/27",
+          "m4date": "2022/03/29",
+          "cnorc": 342,
+          "inorc": 342,
+          "mnorc": 0,
+          "mtime": "10:30",
+          "msec": "34",
+          "user": "CUST029",
+          "sclm": "N"
+        }
+      ],
+      "returnedRows": 3,
+      "JSONversion": 1
+    }
+  }
+}
