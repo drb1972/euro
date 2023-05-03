@@ -2,7 +2,7 @@
   "success": true,
   "exitCode": 0,
   "message": "",
-  "stdout": "\u001b[32m- \u001b[39m\n  \u001b[33mdsname: \u001b[39mRODDI01.GIT.REXX\n  \u001b[33mblksz: \u001b[39m 32720\n  \u001b[33mcatnm: \u001b[39m ICF.MINI.USERCAT\n  \u001b[33mcdate: \u001b[39m 2021/04/27\n  \u001b[33mdev: \u001b[39m   3390\n  \u001b[33mdsntp: \u001b[39m LIBRARY\n  \u001b[33mdsorg: \u001b[39m PO-E\n  \u001b[33medate: \u001b[39m ***None***\n  \u001b[33mextx: \u001b[39m  1\n  \u001b[33mlrecl: \u001b[39m 80\n  \u001b[33mmigr: \u001b[39m  NO\n  \u001b[33mmvol: \u001b[39m  N\n  \u001b[33movf: \u001b[39m   NO\n  \u001b[33mrdate: \u001b[39m 2023/05/03\n  \u001b[33mrecfm: \u001b[39m FB\n  \u001b[33msizex: \u001b[39m 225\n  \u001b[33mspacu: \u001b[39m CYLINDERS\n  \u001b[33mused: \u001b[39m  3\n  \u001b[33mvol: \u001b[39m   USER04\n  \u001b[33mvols: \u001b[39m  USER04\n\n\n",
+  "stdout": "\u001b[32m- \u001b[39m\n  \u001b[33mdsname: \u001b[39mRODDI01.GIT.REXX\n  \u001b[33mblksz: \u001b[39m 32720\n  \u001b[33mcatnm: \u001b[39m ICF.MINI.USERCAT\n  \u001b[33mcdate: \u001b[39m 2021/04/27\n  \u001b[33mdev: \u001b[39m   3390\n  \u001b[33mdsntp: \u001b[39m LIBRARY\n  \u001b[33mdsorg: \u001b[39m PO-E\n  \u001b[33medate: \u001b[39m ***None***\n  \u001b[33mextx: \u001b[39m  1\n  \u001b[33mlrecl: \u001b[39m 80\n  \u001b[33mmigr: \u001b[39m  NO\n  \u001b[33mmvol: \u001b[39m  N\n  \u001b[33movf: \u001b[39m   NO\n  \u001b[33mrdate: \u001b[39m 2023/05/03\n  \u001b[33mrecfm: \u001b[39m FB\n  \u001b[33msizex: \u001b[39m 225\n  \u001b[33mspacu: \u001b[39m CYLINDERS\n  \u001b[33mused: \u001b[39m  3\n  \u001b[33mvol: \u001b[39m   USER04\n  \u001b[33mvols: \u001b[39m  USER04\n\u001b[32m- \u001b[39m\n  \u001b[33mdsname: \u001b[39mRODDI01.GIT.REXX3\n  \u001b[33mblksz: \u001b[39m 32720\n  \u001b[33mcatnm: \u001b[39m ICF.MINI.USERCAT\n  \u001b[33mcdate: \u001b[39m 2023/05/03\n  \u001b[33mdev: \u001b[39m   3390\n  \u001b[33mdsntp: \u001b[39m LIBRARY\n  \u001b[33mdsorg: \u001b[39m PO-E\n  \u001b[33medate: \u001b[39m ***None***\n  \u001b[33mextx: \u001b[39m  1\n  \u001b[33mlrecl: \u001b[39m 80\n  \u001b[33mmigr: \u001b[39m  NO\n  \u001b[33mmvol: \u001b[39m  N\n  \u001b[33movf: \u001b[39m   NO\n  \u001b[33mrdate: \u001b[39m 2023/05/03\n  \u001b[33mrecfm: \u001b[39m FB\n  \u001b[33msizex: \u001b[39m 225\n  \u001b[33mspacu: \u001b[39m CYLINDERS\n  \u001b[33mused: \u001b[39m  1\n  \u001b[33mvol: \u001b[39m   USER05\n  \u001b[33mvols: \u001b[39m  USER05\n\n\n",
   "stderr": "",
   "data": {
     "success": true,
@@ -30,9 +30,31 @@
           "used": "3",
           "vol": "USER04",
           "vols": "USER04"
+        },
+        {
+          "dsname": "RODDI01.GIT.REXX3",
+          "blksz": "32720",
+          "catnm": "ICF.MINI.USERCAT",
+          "cdate": "2023/05/03",
+          "dev": "3390",
+          "dsntp": "LIBRARY",
+          "dsorg": "PO-E",
+          "edate": "***None***",
+          "extx": "1",
+          "lrecl": "80",
+          "migr": "NO",
+          "mvol": "N",
+          "ovf": "NO",
+          "rdate": "2023/05/03",
+          "recfm": "FB",
+          "sizex": "225",
+          "spacu": "CYLINDERS",
+          "used": "1",
+          "vol": "USER05",
+          "vols": "USER05"
         }
       ],
-      "returnedRows": 1,
+      "returnedRows": 2,
       "JSONversion": 1
     }
   }
@@ -93,6 +115,44 @@
         }
       ],
       "returnedRows": 2,
+      "JSONversion": 1
+    }
+  }
+}{
+  "success": true,
+  "exitCode": 0,
+  "message": "",
+  "stdout": "\u001b[32m- \u001b[39m\n  \u001b[33mdsname: \u001b[39mRODDI01.GIT.EURO1\n  \u001b[33mblksz: \u001b[39m 32720\n  \u001b[33mcatnm: \u001b[39m ICF.MINI.USERCAT\n  \u001b[33mcdate: \u001b[39m 2023/05/03\n  \u001b[33mdev: \u001b[39m   3390\n  \u001b[33mdsntp: \u001b[39m LIBRARY\n  \u001b[33mdsorg: \u001b[39m PO-E\n  \u001b[33medate: \u001b[39m ***None***\n  \u001b[33mextx: \u001b[39m  1\n  \u001b[33mlrecl: \u001b[39m 80\n  \u001b[33mmigr: \u001b[39m  NO\n  \u001b[33mmvol: \u001b[39m  N\n  \u001b[33movf: \u001b[39m   NO\n  \u001b[33mrdate: \u001b[39m 2023/05/03\n  \u001b[33mrecfm: \u001b[39m FB\n  \u001b[33msizex: \u001b[39m 225\n  \u001b[33mspacu: \u001b[39m CYLINDERS\n  \u001b[33mused: \u001b[39m  1\n  \u001b[33mvol: \u001b[39m   USER04\n  \u001b[33mvols: \u001b[39m  USER04\n\n\n",
+  "stderr": "",
+  "data": {
+    "success": true,
+    "commandResponse": null,
+    "apiResponse": {
+      "items": [
+        {
+          "dsname": "RODDI01.GIT.EURO1",
+          "blksz": "32720",
+          "catnm": "ICF.MINI.USERCAT",
+          "cdate": "2023/05/03",
+          "dev": "3390",
+          "dsntp": "LIBRARY",
+          "dsorg": "PO-E",
+          "edate": "***None***",
+          "extx": "1",
+          "lrecl": "80",
+          "migr": "NO",
+          "mvol": "N",
+          "ovf": "NO",
+          "rdate": "2023/05/03",
+          "recfm": "FB",
+          "sizex": "225",
+          "spacu": "CYLINDERS",
+          "used": "1",
+          "vol": "USER04",
+          "vols": "USER04"
+        }
+      ],
+      "returnedRows": 1,
       "JSONversion": 1
     }
   }
